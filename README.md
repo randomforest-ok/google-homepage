@@ -1,0 +1,1 @@
+The Odin Project - first project: to reproduce the Google homepage using HTML and CSS.
